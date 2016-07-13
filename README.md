@@ -1,5 +1,5 @@
 
-# Sample-Searchable-Recycler-ViewItemType
+# Sample-Searchable-ViewItemType
 
 **This is another example with Searchable interface!**
 
